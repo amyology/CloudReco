@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SamplesResources/CloudReco/Scripts/NewCloudRecoEventHandler.cs">
+    <Files>
+      <File FileName="Assets/SamplesResources/CloudReco/Scripts/NewCloudRecoEventHandler.cs" Line="46" Column="31" />
+      <File FileName="Assets/Scripts/TrackableEventHandler.cs" Line="54" Column="3" />
+      <File FileName="Assets/Vuforia Video Playback/Scripts/VideoPlaybackBehaviour.cs" Line="94" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

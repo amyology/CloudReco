@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{437A03DB-862B-087D-4803-009DF713849B}") = "CloudReco", "Assembly-CSharp.csproj", "{71A33753-C9BE-907F-CBF1-CAE5D574C2FE}"
+EndProject
+Project("{437A03DB-862B-087D-4803-009DF713849B}") = "CloudReco", "Assembly-CSharp-Editor.csproj", "{43BC00C7-B7EF-1420-F250-3DD87D8AEFFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71A33753-C9BE-907F-CBF1-CAE5D574C2FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71A33753-C9BE-907F-CBF1-CAE5D574C2FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71A33753-C9BE-907F-CBF1-CAE5D574C2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71A33753-C9BE-907F-CBF1-CAE5D574C2FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43BC00C7-B7EF-1420-F250-3DD87D8AEFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43BC00C7-B7EF-1420-F250-3DD87D8AEFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43BC00C7-B7EF-1420-F250-3DD87D8AEFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43BC00C7-B7EF-1420-F250-3DD87D8AEFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
